@@ -79,3 +79,4 @@ El sistema presenta una arquitectura **híbrida Cliente-Servidor / Monolítica**
 2.  **API de Facturación:** Reemplazar la generación de archivos TXT por una API REST que se comunique directamente con el PSE o SUNAT, eliminando la dependencia de rutas de red locales.
 3.  **Modernización de Frontend:** Desarrollar una aplicación web (React o Angular) o una App de escritorio moderna (.NET 8/C#) que consuma servicios REST, permitiendo la movilidad y el acceso multisucursal real.
 4.  **Migración de Datos:** Consolidar todos los DBF legacy en la base de datos relacional centralizada para eliminar problemas de corrupción de archivos de índice (`.CDX`).
+< 2010-03-25T21:53:00 --> 
