@@ -87,3 +87,4 @@ El sistema presenta una arquitectura **híbrida Cliente-Servidor / Monolítica**
 < 2016-04-19T08:21:00 --> 
 < 2010-02-26T02:01:00 --> 
 < 2016-02-08T21:29:00 --> 
+< 2016-01-23T14:44:00 --> 
