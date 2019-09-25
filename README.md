@@ -81,3 +81,4 @@ El sistema presenta una arquitectura **híbrida Cliente-Servidor / Monolítica**
 4.  **Migración de Datos:** Consolidar todos los DBF legacy en la base de datos relacional centralizada para eliminar problemas de corrupción de archivos de índice (`.CDX`).
 < 2010-03-25T21:53:00 --> 
 < 2019-05-11T08:53:00 --> 
+< 2019-09-25T07:44:00 --> 
