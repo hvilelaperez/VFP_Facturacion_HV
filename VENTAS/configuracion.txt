@@ -1,0 +1,12 @@
+SET DEFAULT TO O:\ventas
+SET PATH TO o:\VENTAS,o:\VENTAS\PROGS,o:\VENTAS\INFORMES,o:\VENTAS\FORMULARIOS,o:\VENTAS\DIBUJOS,o:\VENTAS\Data,o:\VENTAS\librerias
+SET PROCEDURE TO funciones
+SET EXCLUSIVE OFF
+PUBLIC Mystring_ofi01
+Mystring_ofi01 = "DRIVER={MySQL ODBC 3.51 Driver};" + ; 
+           		"SERVER=192.168.1.179;" + ;                                                               		
+           		"PORT=3306;" + ;
+           		"UID=sistemas;" + ;
+           		"PWD=d3b14nfw123;" + ;           		
+           		"DATABASE=sqmdata;" + ;                             
+           		"OPTIONS=0;"
